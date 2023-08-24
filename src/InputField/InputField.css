@@ -1,0 +1,21 @@
+.inputParent{
+    width: 60%;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+    background-color: #F4F4F4;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+
+}
+.inputField{
+    width: 90%;
+    font-size: 22px;
+    outline : none;
+    border: none;
+    background-color: #F4F4F4;
+
+
+}
